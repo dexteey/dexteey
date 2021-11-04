@@ -1,4 +1,4 @@
-## eu sou o dex tey tey tey tey, um dev gostoso!
+## <Dextey/>
 <div align="center">
   <a href="https://github.com/dexteey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dexteey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
